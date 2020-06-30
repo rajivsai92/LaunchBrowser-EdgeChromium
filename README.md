@@ -1,1 +1,1 @@
-# LaunchBrowser-Microsoft Edge using c#, Selenium, Visual studio
+# LaunchBrowser-Microsoft Edge using C#, Selenium, Visual studio

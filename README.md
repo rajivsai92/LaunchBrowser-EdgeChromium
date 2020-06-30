@@ -12,10 +12,10 @@ based  on the version of Edge browser installed in windows 10 machine.
  Microsoft.Edge.SeleniumTools 
  Selenium.WebDriver
 
-Version which i used are : 
+Version :
 
-Selenium Webdriver - 3.141.0
-Selenium Support - 3.141.0
-Microsoft.Edge.SeleniumTools - 3.141.0
+1. Selenium Webdriver - 3.141.0
+2. Selenium Support - 3.141.0
+3. Microsoft.Edge.SeleniumTools - 3.141.0
 
 
